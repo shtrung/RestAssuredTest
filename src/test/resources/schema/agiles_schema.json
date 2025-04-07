@@ -1,0 +1,27 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "projects": [
+    {
+      "ringId": "2e88038a-9396-46c0-98b7-99386251a713",
+      "name": "TestApi",
+      "id": "0-190",
+      "$type": "Project"
+    }
+  ],
+  "name": "key",
+  "owner": {
+    "name": "shtrung.se@yandex.ru",
+    "id": "2-4",
+    "$type": "User"
+  },
+  "id": "181-103",
+  "$type": "Agile",
+  "required": [
+    "projects",
+    "name",
+    "owner",
+    "id",
+    "$type"
+  ]
+
+}

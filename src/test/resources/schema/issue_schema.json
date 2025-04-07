@@ -1,0 +1,26 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "summary": "TestApiTask",
+  "reporter": {
+    "fullName": "shtrung.se@yandex.ru",
+    "id": "2-4",
+    "$type": "User"
+  },
+  "project": {
+    "name": "TestApi",
+    "id": "0-184",
+    "$type": "Project"
+  },
+  "description": "string",
+  "id": "3-1572",
+  "$type": "Issue",
+
+  "required": [
+    "summary",
+    "reporter",
+    "project",
+    "description",
+    "id",
+    "$type"
+  ]
+}
